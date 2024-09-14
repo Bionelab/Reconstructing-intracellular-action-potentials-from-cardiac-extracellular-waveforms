@@ -5,10 +5,10 @@ This repository houses the Intelligent In-Cell Electrophysiology project, which 
 
 ## Directory Structure
 
-### `NEA_Patch`
+### NEA_Patch
 This directory contains data and scripts for a comparative study that simultaneously records intracellular action potentials (iAP) using both nanoelectrode arrays (NEA) and traditional patch clamp techniques. It evaluates key metrics such as Mean Absolute Error (MAE), R² (Coefficient of Determination), and Action Potential Duration (APD). The Signal to Noise Ratio (SNR) is analyzed to determine the NEA configurations that minimize measurement errors.
 
-### `NEA_neighboring
+### NEA_Neighboring
 Here, we explore the variations in Mean Absolute Error (MAE), R², and APD when recording from neighboring sites on an NEA. This section focuses on high-quality waveforms with a signal-to-noise ratio exceeding 90 dB, offering insights into the spatial consistency of NEA recordings.
 
 ### `EDA_XGBOOST`
