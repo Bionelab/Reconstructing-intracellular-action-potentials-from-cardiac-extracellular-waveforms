@@ -56,6 +56,7 @@ The Software is provided to you by the Licensor under the MIT License, as define
 **Non-Commercial**: You may not use the Software for any commercial purposes. For the purposes of this License, "Commercial" means primarily intended for or directed towards commercial advantage or monetary compensation.
 
 Any license notice or attribution required by the MIT License must also include this Commons Clause condition.
+![License: MIT with Commons Clause](https://img.shields.io/badge/License-MIT%20%2B%20Commons%20Clause-blue.svg)
 
 
 
